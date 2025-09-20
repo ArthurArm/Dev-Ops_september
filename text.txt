@@ -1,1 +1,2 @@
 Someone is learning DevOps. That someone is me :D.
+I did change to check Pull.

@@ -2,3 +2,4 @@ Someone is learning DevOps. That someone is me :D.
 I did change to check Pull.
 I've changed it on the machine!
 Second day training some commands.
+checking conflict.

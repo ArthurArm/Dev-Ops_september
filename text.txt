@@ -2,4 +2,8 @@ Someone is learning DevOps. That someone is me :D.
 I did change to check Pull.
 I've changed it on the machine!
 Second day training some commands.
+<<<<<<< HEAD
 vs change
+=======
+checking conflict with vs code.
+>>>>>>> cc807f74cb201b8201f29b5854d7c414bd874239
